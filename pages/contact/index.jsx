@@ -18,7 +18,5 @@ export default function ContactPage(props) {
         <code className={'code'}>pages/contact.jsx</code>
       </p>
     </MainLayout>
-
-
   )
 }

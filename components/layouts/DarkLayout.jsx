@@ -1,6 +1,4 @@
-
-
-export const DarkLayout = ({ children }) => {
+const DarkLayout = ({ children }) => {
     return (
         <div style={{
             background: 'violet',
@@ -12,9 +10,7 @@ export const DarkLayout = ({ children }) => {
 
                 {children}
             </div>
-
-
-
         </div>
     )
 }
+export default DarkLayout
