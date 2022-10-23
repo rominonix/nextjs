@@ -13,7 +13,7 @@ export default function HomePage() {
       <input type="text" />
       <button>loggin</button>
       <p className={'description'}>
-        HOLI BOLI SLACK{' '}
+        HOLI BOLI SLACK Is working{' '}
         <code className={'code'}>pages/index.jsx</code>
       </p>
     </MainLayout>
