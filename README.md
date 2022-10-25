@@ -1,6 +1,4 @@
 ![example workflow](https://github.com/rominonix/nextjs/actions/workflows/build-and-deploy.yml/badge.svg)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=rominonix/nextjs)
-
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
