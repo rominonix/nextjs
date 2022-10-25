@@ -1,0 +1,1 @@
+export {default as User, type IUsers} from './User'
